@@ -1,6 +1,6 @@
 # 📘 Análise de Linguagem e Fala com Azure AI
 
-Este repositório tem como objetivo documentar o **desafio de projeto** propostos no módulo **"Análise de Sentimentos com Language Studio no Azure AI"**, integrante do **Bootcamp Suzano Python Developer**, oferecido pela plataforma [DIO](https://www.dio.me).
+Este repositório tem como objetivo documentar o **desafio de projeto** proposto no módulo **"Análise de Sentimentos com Language Studio no Azure AI"**, integrante do **Bootcamp Suzano Python Developer**, oferecido pela plataforma [DIO](https://www.dio.me).
 
 ## 📚 Conteúdo
 
