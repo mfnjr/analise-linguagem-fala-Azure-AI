@@ -110,25 +110,18 @@ synthesizer.speak_text(texto)
 
 5. Escolha o idioma, inicie a gravação de voz ou envie um arquivo
 
-* * *
+---
 
 ## 3. Aplicações práticas
 
-------------------------------
-
 * **Atendimento ao cliente**: análise de sentimentos para identificar críticas recorrentes.
-
 * **Acessibilidade**: TTS pode ajudar pessoas com deficiência visual.
-
 * **Legendas automáticas**: ASR pode gerar transcrições automáticas para vídeos.
-
 * **Assistentes virtuais**: combinação de TTS + ASR = chatbot de voz com linguagem natural.
   
-  📎 Links Úteis
-  
-  ---
+---
 
-## Links Úteis
+## 4. Links Úteis
 
 - [Portal do Azure](https://portal.azure.com/)
 - [Azure Language Studio](https://language.cognitive.azure.com/)
